@@ -1,0 +1,29 @@
+### R ###
+.Rhistory
+.RData
+
+### RStudio ###
+debug.log
+soft-clustering-rough-kmeans.Rproj
+.Rproj.user
+
+### LaTex ###
+/slides/slides.aux
+/slides/slides.log
+/slides/slides.nav
+/slides/slides.out
+/slides/slides.snm
+/slides/slides.synctex.gz
+/slides/slides.tex
+/slides/slides.toc
+/slides/slides.vrb
+
+/report/report.aux
+/report/report.log
+/report/report.nav
+/report/report.out
+/report/report.snm
+/report/report.synctex.gz
+/report/report.tex
+/report/report.toc
+/report/report.vrb

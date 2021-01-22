@@ -1,0 +1,16 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{\numberline {1}Introduzione}{3}{section.1}%
+\contentsline {section}{\numberline {2}Cluster Analysis e Soft Clustering}{3}{section.2}%
+\contentsline {section}{\numberline {3}Fuzzy Clustering}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Fuzzy K-Means}{5}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Possibilistic Clustering}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Possibilistic K-Means}{7}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Model-Based Clustering}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Mistura Finita di Densità Gaussiane}{9}{subsection.5.1}%
+\contentsline {section}{\numberline {6}Rough Clustering}{10}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Rough K-Means}{10}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Implementazione del Rough K-Means in R}{11}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Verifiche Sperimentali}{16}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Test e Risultati su Quattro Dataset}{18}{subsection.7.1}%
+\contentsline {section}{\numberline {8}Conclusioni}{23}{section.8}%
